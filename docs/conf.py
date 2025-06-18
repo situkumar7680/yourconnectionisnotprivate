@@ -1,4 +1,4 @@
-project = 'your connection is not private'
+project = 'yourconnectionisnotprivate'
 author = 'Your Name'
 release = '1.0'
  
