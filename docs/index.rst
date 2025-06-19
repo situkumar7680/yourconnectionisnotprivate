@@ -5,11 +5,7 @@ How to Fix Your Connection is Not Private Error in Chrome?
    :caption: Contents:
 
 
-.. image:: YourConnectionIsNotPrivate.gif.gif
-   :alt: Your connection is not private
-   :width: 400px
-   :align: center
-   :target: https://www.youtube.com/watch?v=LdUQyQb20B4
+
 
 .. raw:: html
 
@@ -137,4 +133,11 @@ Conclusion
 The `"Your connection is not private"` error in Chrome is an important security feature designed to protect users from potential threats on the internet. While it can be inconvenient, the warning plays a vital role in maintaining secure web browsing. Understanding its causes and knowing how to troubleshoot it can help users navigate the web more safely and allow developers to ensure their websites are trusted by all browsers.
 
 Whether you're a casual user or a site administrator, taking this warning seriously and investigating its root cause is essential for maintaining privacy and trust online.
+
+.. image:: YourConnectionIsNotPrivate.gif.gif
+   :alt: Your connection is not private
+   :width: 400px
+   :align: center
+   :target: https://www.youtube.com/watch?v=LdUQyQb20B4
+
 
