@@ -5,7 +5,7 @@ How to Fix Your Connection is Not Private Error in Chrome?
    :caption: Contents:
 
 
-.. image:: https://www.pandasecurity.com/en/mediacenter/src/uploads/2020/01/chrome-1.png
+.. image:: YourConnectionIsNotPrivate.gif.gif
    :alt: Your connection is not private
    :width: 400px
    :align: center
