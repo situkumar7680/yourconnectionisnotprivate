@@ -11,6 +11,12 @@ How to Fix Your Connection is Not Private Error in Chrome?
    :align: center
    :target: https://www.youtube.com/watch?v=LdUQyQb20B4
 
+.. raw:: html
+
+    <div style="text-align: center;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LdUQyQb20B4"
+                frameborder="0" allowfullscreen></iframe>
+    </div>
 
 
 When browsing the internet using Google Chrome, users may occasionally encounter a message stating **"Your connection is not private."** This warning can be alarming, especially when trying to access a frequently visited or trusted site. The purpose of this message is to protect users from potentially insecure or compromised websites. Understanding what this error means, why it occurs, and how to address it is crucial for both general users and developers.
